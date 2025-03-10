@@ -33,7 +33,7 @@ Make sure you have the following installed:
 
 ### Installation
 ```bash
-git clone https://github.com/imohammedh/Notevo.git
+git clone https://github.com/harshmriduhash/Notevo.git
 cd Notevo
 pnpm install  # or npm install
 ```
